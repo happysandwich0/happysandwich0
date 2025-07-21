@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=EDE574,E1F5C4&height=300&section=header&text=YUJIN%20KIM&fontSize=70&desc=github%20page&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=rect&color=EDE574,E1F5C4&height=300&section=header&text=YUJIN%20KIM&fontSize=70&desc=github%20page&descSize=20&fontColor=282829)
+
 
